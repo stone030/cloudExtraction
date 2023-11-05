@@ -35,13 +35,10 @@ keywords=['cubesat', 'clouds', 'atmosphere', 'AI', 'OpenCV'],
 # List project dependencies: 
 install_requires=[
 'cv2',
-'os',
 'cvzone',
 'numpy',
-'urllib',
-'json',
+'urllib3',
 'imutils',
-'time'
 ],
 # https://pypi.org/classifiers/ 
 classifiers=[]
